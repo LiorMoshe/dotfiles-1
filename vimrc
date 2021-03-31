@@ -222,5 +222,8 @@ Plug 'tpope/vim-surround'
 " Use the Repeat.vim plugin
 Plug 'tpope/vim-repeat'
 
+" Use the Commentary.vim plugin to allow commenting in/out
+Plug 'tpope/vim-commentary'
+
 " Initialize plugin system
 call plug#end()
