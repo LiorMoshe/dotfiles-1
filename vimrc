@@ -216,5 +216,8 @@ Plug '~/my-prototype-plugin'
 "ctrlp plug - Allows fuzzy search
 Plug 'ctrlpvim/ctrlp.vim'
 
+" Use the surround vim plugin
+Plug 'tpope/vim-surround'
+
 " Initialize plugin system
 call plug#end()
