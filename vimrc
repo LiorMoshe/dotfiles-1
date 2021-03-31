@@ -219,5 +219,8 @@ Plug 'ctrlpvim/ctrlp.vim'
 " Use the surround vim plugin
 Plug 'tpope/vim-surround'
 
+" Use the Repeat.vim plugin
+Plug 'tpope/vim-repeat'
+
 " Initialize plugin system
 call plug#end()
